@@ -1,0 +1,16 @@
+﻿ContaPoupanca conta1 = new ContaPoupanca(2.5M, new DateTime(1998, 09, 27),"gert", 1000);
+ContaPoupanca conta2 = new ContaPoupanca(1.7M, new DateTime(1997, 05, 18),"bicas", 500);
+ContaPoupanca conta3 = new ContaPoupanca(2M, new DateTime(1997, 12, 17),"william", 1);
+ContaPoupanca conta4 = new ContaPoupanca(2.111M, new DateTime(1997, 11, 12),"gaybriel", 70);
+ContaPoupanca conta5 = new ContaPoupanca(0.555M, new DateTime(1997, 10, 3),"julho", 69);
+// Conta conta6 = new ContaPoupanca(2, new DateTime(1998, 09, 27),"gert");
+// Conta conta7 = new ContaPoupanca(2, new DateTime(1998, 09, 27),"gert");
+Console.WriteLine($"Saldo da conta do {conta2.Titular} = {conta2.Saldo}");
+conta2.AdicionarRendimento();
+Console.WriteLine($"Saldo da conta do {conta2.Titular} = {conta2.Saldo}");
+conta2.Depositar(700);
+conta2.AdicionarRendimento();
+Console.WriteLine($"Saldo da conta do {conta2.Titular} = {conta2.Saldo}");
+Console.WriteLine($"Saldo da conta do {conta2.Titular} = {conta2.Saldo}");
+conta1.Sacar(100);
+Console.WriteLine($"Saldo da conta do {conta1.Titular} = {conta1.Saldo}");

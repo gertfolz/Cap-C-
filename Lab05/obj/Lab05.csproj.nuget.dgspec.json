@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gertf\\Documents\\c#\\Cap-C-\\Lab05\\Lab05.csproj": {}
+    "C:\\Users\\Gert_Folz\\Desktop\\Projetos\\Cap C#\\Cap-C-\\Lab05\\Lab05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gertf\\Documents\\c#\\Cap-C-\\Lab05\\Lab05.csproj": {
+    "C:\\Users\\Gert_Folz\\Desktop\\Projetos\\Cap C#\\Cap-C-\\Lab05\\Lab05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gertf\\Documents\\c#\\Cap-C-\\Lab05\\Lab05.csproj",
+        "projectUniqueName": "C:\\Users\\Gert_Folz\\Desktop\\Projetos\\Cap C#\\Cap-C-\\Lab05\\Lab05.csproj",
         "projectName": "Lab05",
-        "projectPath": "C:\\Users\\gertf\\Documents\\c#\\Cap-C-\\Lab05\\Lab05.csproj",
-        "packagesPath": "C:\\Users\\gertf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gertf\\Documents\\c#\\Cap-C-\\Lab05\\obj\\",
+        "projectPath": "C:\\Users\\Gert_Folz\\Desktop\\Projetos\\Cap C#\\Cap-C-\\Lab05\\Lab05.csproj",
+        "packagesPath": "C:\\Users\\Gert_Folz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gert_Folz\\Desktop\\Projetos\\Cap C#\\Cap-C-\\Lab05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gertf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Gert_Folz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

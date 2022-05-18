@@ -1,0 +1,15 @@
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\obj\Debug\net6.0\Lab06.csproj.AssemblyReference.cache
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\obj\Debug\net6.0\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\obj\Debug\net6.0\Lab06.AssemblyInfoInputs.cache
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\obj\Debug\net6.0\Lab06.AssemblyInfo.cs
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\obj\Debug\net6.0\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\bin\Debug\net6.0\Lab06.exe
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\bin\Debug\net6.0\Lab06.deps.json
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\bin\Debug\net6.0\Lab06.runtimeconfig.json
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\bin\Debug\net6.0\Lab06.dll
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\bin\Debug\net6.0\Lab06.pdb
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\obj\Debug\net6.0\Lab06.dll
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\obj\Debug\net6.0\refint\Lab06.dll
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\obj\Debug\net6.0\Lab06.pdb
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\obj\Debug\net6.0\Lab06.genruntimeconfig.cache
+C:\Users\Gert_Folz\Desktop\Projetos\Cap C#\Cap-C-\Lab06\obj\Debug\net6.0\ref\Lab06.dll
