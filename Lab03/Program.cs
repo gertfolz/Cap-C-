@@ -1,4 +1,5 @@
-﻿Queue<Object> q = new Queue<Object>();
+﻿
+Queue<Object> q = new Queue<Object>();
 q.Enqueue(".Net Framework");
 q.Enqueue(new Decimal(123.456));
 q.Enqueue(654.321);
@@ -43,19 +44,14 @@ Console.WriteLine("\n");
 
 //Exercicio 2
 
-List<float> minhaLista = new List<float>();
+List<double> minhaLista = new List<double>();
+
 Random rnd = new Random();
 for (int i = 0; i<100; i++)
 {
-    minhaLista.Append(rnd.Next(1,1000)/rnd.Next(1,1000));
+    double randomNbr = ((rnd.Next(1,1000)*rnd.NextDouble()));
+    minhaLista.Add(randomNbr);
 }
-double average = 0;
-double sum = 0;
 
-for (int i = 0; i<minhaLista.Count; i++)
-{
-    sum += minhaLista[i];
-}
-Console.WriteLine(sum);
-average = sum/minhaLista.Count;
-Console.WriteLine(average);
+int elementos = media.TotalAcimaMedia(minhaLista);
+List<double> acimaMedia = media.ListaAcimaMedia(minhaLista);
