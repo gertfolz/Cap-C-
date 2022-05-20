@@ -22,8 +22,23 @@ foreach (var pessoa in linq2)
 Console.WriteLine(pessoa);
 }
 
-var linq3 = pessoas.Max(p => p.DataNascimento);
-Console.WriteLine($"Pessoa mais nova: {linq3}");
-var linq4 = pessoas.Min(p => p.DataNascimento);
-Console.WriteLine($"Pessoa mais velha: {linq4}");
+var linq3 = 
+    from p in pessoas
+    orderby p.DataNascimento ascending
+    select p;
+Console.WriteLine($"Pessoa mais nova: {linq3.Last()}");
+Console.WriteLine($"Pessoa mais velha: {linq3.First()}");
+
+var linq4 = 
+    from p in pessoas
+    group p by p.Casada into grupo
+    select new
+    {
+        casadas = grupo.Key,
+        pessoas = grupo.Count()
+    };
+foreach (var pessoa in linq4)
+{
+Console.WriteLine(pessoa);
+}
 

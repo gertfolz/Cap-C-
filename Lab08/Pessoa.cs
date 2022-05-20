@@ -23,7 +23,7 @@ public class Pessoa : IComparable<Pessoa>
 
     public class OrdenaPorNome : IComparer<Pessoa>
     {
-        public int CompareTo(Pessoa pes1, Pessoa pes2)
+        public int Compare(Pessoa pes1, Pessoa pes2)
         {
             return pes1.meuNome.CompareTo(pes2.meuNome);
         }
